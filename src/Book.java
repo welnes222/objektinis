@@ -39,7 +39,7 @@ public class Book {
 
 @Override
     public String toString(){
-        return "knyga " + name + " turi puslapiu " + pages + " parasyta " + date;
+        return ("knyga " + name + " turi puslapiu " + pages + " parasyta " + date);
 
 }
 
